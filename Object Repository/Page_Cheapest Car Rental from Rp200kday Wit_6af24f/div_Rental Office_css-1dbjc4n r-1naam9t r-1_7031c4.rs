@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rental Office_css-1dbjc4n r-1naam9t r-1_7031c4</name>
+   <tag></tag>
+   <elementGuidId>508f25d8-a5c2-46bf-bd12-78d60d301d8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1awozwy.r-14lw9ot.r-1l31rp8.r-16uyjmq.r-rs99b7.r-18yzcnr.r-1777fci.r-yc9v9c > div.css-1dbjc4n.r-1naam9t.r-1fuqb1j.r-d045u9.r-1472mwg.r-orgf3d.r-u8s1d.r-lrsllp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RENTAL_PICKUP_LOCATION']/div/div/div[3]/div[2]/div/div/div/div[2]/div/div/div/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5c2b9b78-4d08-4385-8412-bf64f1a29ce3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1naam9t r-1fuqb1j r-d045u9 r-1472mwg r-orgf3d r-u8s1d r-lrsllp</value>
+      <webElementGuid>d01da1d4-47e8-41f7-8829-ce358bced44e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RENTAL_PICKUP_LOCATION&quot;)/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-b4qz5r r-1ifxtd0 r-nsbfu8 r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-eqz5dr&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-da5iq2&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-391gc0 r-nsbfu8&quot;]/div[@class=&quot;css-1dbjc4n r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-da5iq2 r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-1xk3nun r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1xk3nun r-17y9yhz&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1q52ik8 r-qklmqi r-1loqt21 r-kzbkwu r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1wtj0ep&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-1otgn73 r-1i6wzkk r-lrvibr r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1h0z5md&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1472mwg r-1777fci r-lrsllp&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-14lw9ot r-1l31rp8 r-16uyjmq r-rs99b7 r-18yzcnr r-1777fci r-yc9v9c&quot;]/div[@class=&quot;css-1dbjc4n r-1naam9t r-1fuqb1j r-d045u9 r-1472mwg r-orgf3d r-u8s1d r-lrsllp&quot;]</value>
+      <webElementGuid>640779e3-c532-4fe0-8f23-d7d3bab53ed9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RENTAL_PICKUP_LOCATION']/div/div/div[3]/div[2]/div/div/div/div[2]/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>a78126a8-58a3-44e2-8a43-6c9c7814bbf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>d24b3c9e-bbac-4f6b-94ac-55c06ed44bd8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

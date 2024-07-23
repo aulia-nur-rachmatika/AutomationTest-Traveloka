@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_4 providers available</name>
+   <tag></tag>
+   <elementGuidId>bc276d80-46e7-4830-a1c9-5d7f9e563ee8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[5]/div[2]/div[2]/div/div/div/div/div/div[2]/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>95532c6c-a220-4806-8b91-b5fddab4023b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>87aa86b2-ed1b-4cad-8b39-46e8f9ac40b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-t1w4ow r-1enofrn r-majxgm r-1cwl3u0 r-fdjqy7</value>
+      <webElementGuid>eb713e50-426c-4b99-bb84-1ada2f9628aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4 providers available</value>
+      <webElementGuid>4b39cc0e-b3f1-4559-afa8-744819ad35d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1ihkh82&quot;]/div[@class=&quot;css-1dbjc4n r-1kihuf0 r-169s5xo r-uwe93p r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt&quot;]/div[@class=&quot;css-1dbjc4n r-1ihkh82 r-1q2s4rl r-ttdzmv&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-eqz5dr r-16y2uox r-1wbh5a2 r-11yh6sk r-1rnoaur r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-1yos0t3 r-1ifxtd0 r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-ymttw5 r-95jzfe&quot;]/div[@class=&quot;css-1dbjc4n r-1qhn6m8&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1h0z5md&quot;]/div[@class=&quot;css-901oao r-t1w4ow r-1enofrn r-majxgm r-1cwl3u0 r-fdjqy7&quot;]</value>
+      <webElementGuid>b397f980-2d09-4d2f-8d44-92c694a60356</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[5]/div[2]/div[2]/div/div/div/div/div/div[2]/div[2]/div[3]</value>
+      <webElementGuid>9ea97002-87bd-4ab7-afb8-a1258cd8685a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Without Driver'])[3]/following::div[2]</value>
+      <webElementGuid>43b3b0dd-8035-4923-80ba-74378f37d076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AUTOMATIC'])[1]/following::div[12]</value>
+      <webElementGuid>0bebc1e9-fe4a-4c71-99bf-206d479221e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[1]/preceding::div[1]</value>
+      <webElementGuid>652f203b-0f85-49e3-b0c9-59f3aba9b3cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 335.863'])[1]/preceding::div[2]</value>
+      <webElementGuid>6bec3588-4a8e-46e0-ab11-18573a069652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='4 providers available']/parent::*</value>
+      <webElementGuid>6a4a1ac0-25e0-4285-80b7-a70b1a72dd0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]/div[2]/div[3]</value>
+      <webElementGuid>4b752c83-20a3-43de-a539-2a20cb59365a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '4 providers available' or . = '4 providers available')]</value>
+      <webElementGuid>e8ebb556-5a0b-470f-a4fd-75f523ebdff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[4]/div[2]/div[2]/div/div/div/div/div/div[2]/div[2]/div[3]</value>
+      <webElementGuid>2d34e4d9-7ad5-41bf-aefb-62c6d8c93573</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe</name>
+   <tag></tag>
+   <elementGuidId>55c1fa9c-2f66-4a44-95e5-20330cd26b10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>iframe[title=&quot;Dialog Login dengan Google&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='credential_picker_container']/iframe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>b6cea499-824e-46d0-accf-a5ebae4a13e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://accounts.google.com/gsi/iframe/select?client_id=909540881369-n0acgq130phqtg02m2ufk6fkei6ponor.apps.googleusercontent.com&amp;ux_mode=popup&amp;ui_mode=card&amp;as=kgIVW02aTRKCFSYQG+zhMw&amp;is_itp=true&amp;channel_id=00df9b4ab38b14360327d6c526ec6e6b6010cc584f6ba1251e1df67c9b5627ad&amp;origin=https%3A%2F%2Fwww.traveloka.com</value>
+      <webElementGuid>1d8be52a-6d41-471e-a262-ad98176b7ea4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Dialog Login dengan Google</value>
+      <webElementGuid>e3028e7e-263d-4767-ba21-f9de06280739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;credential_picker_container&quot;)/iframe[1]</value>
+      <webElementGuid>1e5aa6ec-4a0a-40c3-8934-ae38c2b52249</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='credential_picker_container']/iframe</value>
+      <webElementGuid>e4bf78da-b025-4d8b-9308-5bbad5fc53e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/following::iframe[1]</value>
+      <webElementGuid>9f7e312b-bacc-48c6-baf4-612bf38bfa2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coupon copied!'])[1]/following::iframe[1]</value>
+      <webElementGuid>e223f2eb-8718-4fd7-8ed2-b9951b2f6520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>057bf024-ecbb-4e05-9a98-2a7ee4b579f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://accounts.google.com/gsi/iframe/select?client_id=909540881369-n0acgq130phqtg02m2ufk6fkei6ponor.apps.googleusercontent.com&amp;ux_mode=popup&amp;ui_mode=card&amp;as=kgIVW02aTRKCFSYQG+zhMw&amp;is_itp=true&amp;channel_id=00df9b4ab38b14360327d6c526ec6e6b6010cc584f6ba1251e1df67c9b5627ad&amp;origin=https%3A%2F%2Fwww.traveloka.com' and @title = 'Dialog Login dengan Google']</value>
+      <webElementGuid>df8c246f-4187-4fa6-a0a6-19468182ac90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

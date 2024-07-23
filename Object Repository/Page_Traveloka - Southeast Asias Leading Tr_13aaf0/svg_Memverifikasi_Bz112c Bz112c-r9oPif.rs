@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Memverifikasi_Bz112c Bz112c-r9oPif</name>
+   <tag></tag>
+   <elementGuidId>bd03b363-8c2c-4c66-9442-804dae1a5646</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.Bz112c.Bz112c-r9oPif</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>3ae9a4b3-78bd-4ddf-9f7c-b2c5f875b2a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Bz112c Bz112c-r9oPif</value>
+      <webElementGuid>485b0d17-0d21-4551-aaac-084492c5c22a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>https://www.w3.org/2000/svg</value>
+      <webElementGuid>cd7a03a7-e727-4f6b-8cd4-4be99dd36f99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>cdeb5cab-38d8-408c-9a73-5320a0816114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#5f6368</value>
+      <webElementGuid>3582f1d2-9bf2-478b-a373-3f6995520502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;close&quot;)/svg[@class=&quot;Bz112c Bz112c-r9oPif&quot;]</value>
+      <webElementGuid>6a6f9e16-ad24-4669-97b9-680cd01f29c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Traveloka - Southeast Asias Leading Tr_13aaf0/iframe</value>
+      <webElementGuid>b0923ac2-6c5b-4b4a-8918-65d6157c2119</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

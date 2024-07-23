@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_21</name>
+   <tag></tag>
+   <elementGuidId>25cafee1-071a-4ce0-a27c-e04285262f4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1vjbqqu.r-z2wwpe.r-18u37iz.r-1472mwg.r-13qz1uu > div.css-1dbjc4n.r-1awozwy.r-eqz5dr.r-16y2uox.r-1472mwg.r-1777fci.r-1wyvozj.r-u8s1d.r-70iriu.r-136ojw6 > div.css-901oao.r-cwxd7f.r-t1w4ow.r-1b43r93.r-majxgm.r-rjixqe.r-q4m81j</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/div[3]/div/div[2]/div/div/div/div/div/div/div/div/div[3]/div[21]/div/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0946a3eb-03f7-4ca7-8d9d-66c1b4c10f1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>52190ba6-c207-4861-8b7f-02dca111a507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-cwxd7f r-t1w4ow r-1b43r93 r-majxgm r-rjixqe r-q4m81j</value>
+      <webElementGuid>3cabf57e-f3f7-4594-8d57-47bb2fc94c59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>21</value>
+      <webElementGuid>7b2df43e-7ef9-49a1-b3fc-7baa5e10f075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-aoullt r-6koalj r-1wtj0ep r-dg7iqi r-bnwqim r-13qz1uu r-tqpus0&quot;]/div[@class=&quot;css-1dbjc4n r-1ifxtd0 r-1jgb5lz r-1a83bov r-17yavnb&quot;]/div[@class=&quot;css-1dbjc4n r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt r-6yljno r-bnwqim r-pezta&quot;]/div[@class=&quot;css-1dbjc4n r-kdyh1x r-d045u9 r-xyw6el&quot;]/div[@class=&quot;css-1dbjc4n r-11c0sde r-bztko3 r-bnwqim r-417010&quot;]/div[@class=&quot;css-1dbjc4n r-6koalj r-18u37iz r-12w9sp&quot;]/div[@class=&quot;css-1dbjc4n r-16y2uox r-1wbh5a2 r-1jt293m&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-1wh2hl7 r-e65k4z r-1q9bdsx r-1e081e0 r-tvv088&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1h0z5md&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1wh2hl7 r-e65k4z r-b4qz5r r-1d2f490 r-1udh08x r-u8s1d&quot;]/div[@class=&quot;css-1dbjc4n r-edyy15&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-18u37iz r-16y2uox r-1wbh5a2 r-lltvgl r-buy8e9 r-mfh4gg r-2eszeu r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-cpa5s6&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-6413gk r-14hr28s r-c0cves&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-kdyh1x r-1loqt21 r-1777fci r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1vjbqqu r-z2wwpe r-18u37iz r-1472mwg r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-eqz5dr r-16y2uox r-1472mwg r-1777fci r-1wyvozj r-u8s1d r-70iriu r-136ojw6&quot;]/div[@class=&quot;css-901oao r-cwxd7f r-t1w4ow r-1b43r93 r-majxgm r-rjixqe r-q4m81j&quot;]</value>
+      <webElementGuid>ee7fb51e-91c4-4785-a807-87e8ab8ac446</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/div[3]/div/div[2]/div/div/div/div/div/div/div/div/div[3]/div[21]/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>fa438a4b-eef9-41e4-89af-af33f05b5de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/following::div[35]</value>
+      <webElementGuid>7d037d71-513e-4057-98d2-ff24597124dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[1]/following::div[211]</value>
+      <webElementGuid>be95af31-ea5b-4eeb-9e20-f2efd651b822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Muharram/Islamic New Year'])[1]/preceding::div[109]</value>
+      <webElementGuid>ee31768b-0483-4903-93b6-f80476139902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='August 2024'])[1]/preceding::div[113]</value>
+      <webElementGuid>8b3ebb42-a270-4192-b9f7-cb1006ad7c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[21]/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>6154b7b5-ac43-42be-bff9-c57e81f17dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '21' or . = '21')]</value>
+      <webElementGuid>b527a00f-7c2d-4194-97c5-d347ac886c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div[2]/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/div[3]/div/div[2]/div/div/div/div/div/div/div/div/div[3]/div[21]/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>1090d585-5f06-4293-87a9-1e4ae7757d51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

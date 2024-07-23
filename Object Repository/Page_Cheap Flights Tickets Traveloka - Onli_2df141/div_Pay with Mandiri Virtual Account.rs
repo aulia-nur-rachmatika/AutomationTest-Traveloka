@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pay with Mandiri Virtual Account</name>
+   <tag></tag>
+   <elementGuidId>7396e41d-2acc-42ae-9e3e-c7841ced03a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1awozwy.r-13awgt0.r-18u37iz.r-1777fci.r-icoktb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div/div[5]/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5ba12084-5082-4cf9-88c9-08154f9a9710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1awozwy r-13awgt0 r-18u37iz r-1777fci r-icoktb</value>
+      <webElementGuid>e3b95200-4310-443a-8c7b-f14ee34c53db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pay with Mandiri Virtual Account</value>
+      <webElementGuid>07a74eb6-6d27-47cf-abcf-0eb387afc1cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1v5cr82&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1777fci&quot;]/div[@class=&quot;css-1dbjc4n r-1kfa7lm&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1dzdj1l&quot;]/div[@class=&quot;css-1dbjc4n r-qn3fzs r-1guathk&quot;]/div[@class=&quot;css-18t94o4 css-1dbjc4n r-kdyh1x r-oo3563 r-1loqt21 r-10paoce r-1e081e0 r-5njf8e r-1otgn73 r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-13awgt0 r-18u37iz r-1777fci r-icoktb&quot;]</value>
+      <webElementGuid>0a0c5b7b-ba0b-4940-8e0d-824787ac403a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div/div[5]/div[2]/div/div[2]</value>
+      <webElementGuid>ab30ee4f-b823-4479-a5fa-59075b524df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay with Mandiri Virtual Account'])[1]/following::div[1]</value>
+      <webElementGuid>770da786-1617-42e7-832d-88bfbe2113eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 712.196'])[2]/following::div[4]</value>
+      <webElementGuid>c42180c4-aeb4-407a-9b29-8c77868e6842</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Traveloka', &quot;'&quot;, 's Terms &amp; Conditions')])[1]/preceding::div[2]</value>
+      <webElementGuid>39a4ff29-33f7-4f3e-b33b-43c4fc62ecdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div[2]</value>
+      <webElementGuid>c73b0379-ae3a-408f-8025-850d02f10334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pay with Mandiri Virtual Account' or . = 'Pay with Mandiri Virtual Account')]</value>
+      <webElementGuid>e90f6104-9dd2-493b-916c-864ea519e3c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

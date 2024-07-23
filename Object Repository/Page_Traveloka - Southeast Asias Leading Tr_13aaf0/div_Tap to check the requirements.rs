@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tap to check the requirements</name>
+   <tag></tag>
+   <elementGuidId>63c796ff-b322-4bd9-9386-679eb83bd28e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-14lw9ot.r-kdyh1x.r-1yos0t3.r-18u37iz.r-1wtj0ep.r-1udh08x.r-nsbfu8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[2]/div/div[11]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c38b2b1b-f7a7-4dce-8343-db9b8b2eca76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-14lw9ot r-kdyh1x r-1yos0t3 r-18u37iz r-1wtj0ep r-1udh08x r-nsbfu8</value>
+      <webElementGuid>ab8e036d-bf92-44ff-b46b-0d919c93f7fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tap to check the requirements.*</value>
+      <webElementGuid>145091d5-887a-4d9e-84cd-f0233c8b8df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1kihuf0 r-16y2uox r-15g7tld r-11c0sde r-uwe93p r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1wtj0ep&quot;]/div[@class=&quot;css-1dbjc4n r-tzxfm6&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-1yos0t3 r-18u37iz r-1wtj0ep r-1udh08x r-nsbfu8&quot;]</value>
+      <webElementGuid>f26c9ad8-0902-4380-8101-0170a904de82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[2]/div/div[11]/div/div</value>
+      <webElementGuid>44e38f2a-6d9e-40a6-9e73-14a545088c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rental Requirements'])[1]/following::div[3]</value>
+      <webElementGuid>036b4cb2-f404-48ec-b70a-7be3678a2ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak ada'])[1]/following::div[7]</value>
+      <webElementGuid>179d6c63-9990-458a-9b0a-3cbe8fe205f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div</value>
+      <webElementGuid>6529f074-6b43-4043-8ab0-7e41eb048da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tap to check the requirements.*' or . = 'Tap to check the requirements.*')]</value>
+      <webElementGuid>a21e62fb-1309-4f79-b3a3-96cc2d2f882f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

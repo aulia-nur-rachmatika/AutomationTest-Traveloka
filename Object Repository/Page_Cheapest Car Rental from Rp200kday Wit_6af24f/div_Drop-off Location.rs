@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Drop-off Location</name>
+   <tag></tag>
+   <elementGuidId>07554b74-1a4c-4679-b184-e290e8dc79e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1ihkh82.r-kdyh1x.r-b4qz5r.r-1ifxtd0.r-nsbfu8.r-184en5c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RENTAL_DROPOFF_LOCATION']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>709bfe7e-4f4f-4037-a01e-a34cb53d6bda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1ihkh82 r-kdyh1x r-b4qz5r r-1ifxtd0 r-nsbfu8 r-184en5c</value>
+      <webElementGuid>3ff9b71e-25a9-4778-b9e5-99530e687942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drop-off Location*</value>
+      <webElementGuid>c274fc12-8e52-4938-af5f-7bccd06feb69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RENTAL_DROPOFF_LOCATION&quot;)/div[@class=&quot;css-1dbjc4n r-1ihkh82 r-kdyh1x r-b4qz5r r-1ifxtd0 r-nsbfu8 r-184en5c&quot;]</value>
+      <webElementGuid>87576e4d-8025-43d4-b83f-72a559973084</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RENTAL_DROPOFF_LOCATION']/div</value>
+      <webElementGuid>e29811e9-b797-48a6-815c-19956b9586ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Train Station'])[3]/following::div[3]</value>
+      <webElementGuid>3f9d6c27-4217-44e4-9e6a-0e1c85f82d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gambir, Central Jakarta, Jakarta, Indonesia, Southeast Asia, Asia'])[2]/following::div[5]</value>
+      <webElementGuid>448a98ee-d55d-4394-9b01-0b68fb78192b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[3]/div[2]/div</value>
+      <webElementGuid>5705b540-adaf-4ab1-8bbd-ff8687ba6983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Drop-off Location*' or . = 'Drop-off Location*')]</value>
+      <webElementGuid>46882335-3860-4298-9e1d-0df0e6529cfc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

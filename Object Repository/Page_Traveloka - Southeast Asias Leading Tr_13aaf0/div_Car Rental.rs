@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Car Rental</name>
+   <tag></tag>
+   <elementGuidId>c11033c7-ba95-4608-ba3b-f5f9b07baa9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-11mg6pl.r-1h84pjw.r-rs99b7.r-1loqt21.r-18u37iz.r-1pi2tsx.r-ymttw5.r-5njf8e.r-1otgn73.r-lrvibr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div/div/div/div/div[6]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>67332694-7596-4209-964b-8a4156de9dfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>109b1d32-069c-4f07-b112-6d2478f4cd1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-11mg6pl r-1h84pjw r-rs99b7 r-1loqt21 r-18u37iz r-1pi2tsx r-ymttw5 r-5njf8e r-1otgn73 r-lrvibr</value>
+      <webElementGuid>f3c76a6a-a6e1-4ede-9d59-4bd86cc7684d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>product-pill-Car Rental</value>
+      <webElementGuid>f503e0ed-7912-4e1d-96db-7efca1019d8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Car Rental</value>
+      <webElementGuid>3d57a944-b582-4af3-a8dc-90843de33f41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-aoullt r-6koalj r-1wtj0ep r-dg7iqi r-bnwqim r-13qz1uu r-tqpus0&quot;]/div[@class=&quot;css-1dbjc4n r-1ifxtd0 r-1jgb5lz r-1a83bov r-17yavnb&quot;]/div[@class=&quot;css-1dbjc4n r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt r-6yljno r-bnwqim r-pezta&quot;]/div[@class=&quot;css-1dbjc4n r-kdyh1x r-xyw6el&quot;]/div[@class=&quot;css-1dbjc4n r-1wh2hl7 r-o8yidv r-5oul0u r-bnwqim r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-bnwqim r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-6koalj r-18u37iz r-9aw3ui&quot;]/div[@class=&quot;css-1dbjc4n r-1pi2tsx r-bnwqim r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-11mg6pl r-1h84pjw r-rs99b7 r-1loqt21 r-18u37iz r-1pi2tsx r-ymttw5 r-5njf8e r-1otgn73 r-lrvibr&quot;]</value>
+      <webElementGuid>027da823-146f-4796-a8c1-d4e989d8fd39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div/div/div/div/div[6]/div</value>
+      <webElementGuid>84c70761-dc7a-4f19-b3b4-b5e13955ad3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airport Transfer'])[2]/following::div[2]</value>
+      <webElementGuid>5336f714-cb81-4a01-b5dc-b812fabe9d65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bus &amp; Travel'])[2]/following::div[7]</value>
+      <webElementGuid>10ef10e4-685d-4a4b-9a39-503fd2e9416f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Things to Do'])[2]/preceding::div[5]</value>
+      <webElementGuid>ac076525-6133-4e4a-b065-540d49efe9bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div</value>
+      <webElementGuid>1e1a1161-b1aa-4e2e-8b95-e667125e178c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Car Rental' or . = 'Car Rental')]</value>
+      <webElementGuid>e863354a-9f67-48ca-a8b6-8b11353a7da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div[2]/div/div[2]/div/div/div/div/div[6]/div</value>
+      <webElementGuid>f9d3ff9d-514a-41d1-bd6f-72a9c9e92a8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

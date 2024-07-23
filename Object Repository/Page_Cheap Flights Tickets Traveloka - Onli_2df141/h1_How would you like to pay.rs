@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_How would you like to pay</name>
+   <tag></tag>
+   <elementGuidId>43131260-eafc-402b-802c-099dd3fe6da9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.css-4rbku5.css-901oao.r-t1w4ow.r-1x35g6.r-b88u0q.r-vrz42v.r-fdjqy7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div[2]/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>0353bf2d-1817-4eae-b2bc-1c7d6fe5a819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>7ffddaff-3a94-4056-bfcf-6796756721e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>267ff53d-679b-4f71-9be8-01ba101e4fec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>3765ffd8-715a-47b6-b667-d97fdc30ebb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-4rbku5 css-901oao r-t1w4ow r-1x35g6 r-b88u0q r-vrz42v r-fdjqy7</value>
+      <webElementGuid>5ac31c57-ebe5-4669-83dc-b167242016d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>How would you like to pay?</value>
+      <webElementGuid>aa9aa6f9-024a-41c9-b4e0-bda4c32e48d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1v5cr82&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1777fci&quot;]/div[@class=&quot;css-1dbjc4n r-1kfa7lm&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1dzdj1l&quot;]/div[@class=&quot;css-1dbjc4n r-1h4fu65&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1wtj0ep r-qn3fzs r-puj83k r-11g3r6m&quot;]/h1[@class=&quot;css-4rbku5 css-901oao r-t1w4ow r-1x35g6 r-b88u0q r-vrz42v r-fdjqy7&quot;]</value>
+      <webElementGuid>80c90ff9-aa98-4719-9e57-89e0b32d9373</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div[2]/div/div/h1</value>
+      <webElementGuid>26ce7c4e-34fe-4028-b0b4-a27a5f375cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Account'])[1]/preceding::h1[1]</value>
+      <webElementGuid>b5a4bf77-f721-4cee-9d77-fb41de47e27a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BCA Virtual Account'])[1]/preceding::h1[1]</value>
+      <webElementGuid>9654fe9d-379b-49f8-839d-be1b669eee69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='How would you like to pay?']/parent::*</value>
+      <webElementGuid>60b8935a-d11a-4730-ba06-36c8435056e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>17e51e5e-791c-4561-9a30-a80e2312135c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'How would you like to pay?' or . = 'How would you like to pay?')]</value>
+      <webElementGuid>0ffee9b3-9634-4e91-a69c-412f9e625d1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

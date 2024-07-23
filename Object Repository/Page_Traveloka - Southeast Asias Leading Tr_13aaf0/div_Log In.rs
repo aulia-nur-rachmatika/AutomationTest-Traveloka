@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log In</name>
+   <tag></tag>
+   <elementGuidId>804ea213-f840-4f1b-bc0b-b542697582a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1awozwy.r-11mg6pl.r-kdyh1x.r-rs99b7.r-1loqt21.r-18u37iz.r-qpntkw.r-1otgn73.r-1i6wzkk.r-lrvibr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2db6a590-d644-4e62-a34c-7e01a2336064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>84d96f78-c799-4719-bf02-99cfe2d7525f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1awozwy r-11mg6pl r-kdyh1x r-rs99b7 r-1loqt21 r-18u37iz r-qpntkw r-1otgn73 r-1i6wzkk r-lrvibr</value>
+      <webElementGuid>319b98ce-b432-4499-9cf8-ab9a3f10484c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log In</value>
+      <webElementGuid>7e4b2c4d-f420-46ba-9fde-b5fa19b97419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-bztko3 r-ipm5af r-iy1yoi r-13qz1uu r-8ny0jo&quot;]/div[@class=&quot;css-1dbjc4n r-wy61xf r-1jgb5lz r-r0h9e2 r-u8s1d r-13qz1uu r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1777fci r-10gryf7 r-82yag r-u8s1d r-iy1yoi r-13qz1uu r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1wtj0ep r-1e081e0 r-oyd9sg r-17yavnb r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-11mg6pl r-kdyh1x r-rs99b7 r-1loqt21 r-18u37iz r-qpntkw r-1otgn73 r-1i6wzkk r-lrvibr&quot;]</value>
+      <webElementGuid>dcbe244d-4446-4fd2-bda0-b0cadcc17acf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div[3]</value>
+      <webElementGuid>17c2a104-3151-45a3-ba9f-76eace9cc223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bookings'])[1]/following::div[1]</value>
+      <webElementGuid>866de136-7e1c-4482-9a7a-612e24bb15b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Corporates'])[1]/following::div[3]</value>
+      <webElementGuid>57eb6cf4-d0e9-492e-a7b2-8150a18f204b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::div[3]</value>
+      <webElementGuid>6ddd30e7-7ad8-4b46-baae-aba7bdf804e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[3]</value>
+      <webElementGuid>4f804bec-e144-4eb1-b169-581eba609fe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Log In' or . = 'Log In')]</value>
+      <webElementGuid>eeb26a47-79fd-4c5c-925b-00f2e628cba6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
